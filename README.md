@@ -1,2 +1,2 @@
 # Projeto-Finans
-Um simples em HTML, CSS e BOOTSTRAP de um site de finanças fictício feito para demonstrar meus conhecimentos
+Um em HTML, CSS, BOOTSTRAP e JAVASCRIPT de um site de finanças fictício feito para demonstrar meus conhecimentos
