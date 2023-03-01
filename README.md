@@ -1,7 +1,7 @@
 # Projeto-Finans
 
 ## 💻 Sobre o Projeto
-Um em HTML, CSS, BOOTSTRAP e JAVASCRIPT de um site de finanças fictício feito para demonstrar meus conhecimentos
+Um projeto em HTML, CSS, BOOTSTRAP e JAVASCRIPT de um site de finanças fictício feito para demonstrar meus conhecimentos
 
 ## 🎨 Layout
 
